@@ -120,6 +120,7 @@ html {
 
   @media (max-width: 768px) {
     &__content {
+      padding: 0 5px 0;
       &--title {
         font-size: 3rem;
         margin: 0 0 5px;
@@ -130,8 +131,8 @@ html {
       }
 
       &--cup {
-        max-width: 27rem;
-        height: 45rem;
+        max-width: 25rem;
+        height: 38rem;
       }
 
       &--para {

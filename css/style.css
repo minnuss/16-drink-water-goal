@@ -107,6 +107,9 @@ html {
 }
 
 @media (max-width: 768px) {
+  .water__content {
+    padding: 0 5px 0;
+  }
   .water__content--title {
     font-size: 3rem;
     margin: 0 0 5px;
@@ -115,8 +118,8 @@ html {
     margin: 10px 0 5px;
   }
   .water__content--cup {
-    max-width: 27rem;
-    height: 45rem;
+    max-width: 25rem;
+    height: 38rem;
   }
   .water__content--para {
     text-align: center;
